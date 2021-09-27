@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @celestemanenc
+- 👀 Machine Learning, Human Computer Interaction and Cyber Security
+- 🎓 UCL BSc Computer Science
+- 📫 celestemanenc@gmail.com
